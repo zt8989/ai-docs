@@ -1,0 +1,6 @@
+请根据以下内容，生成一个markdown格式的文件，只保留div.content的内容
+
+```html
+{{ content }}
+```
+
